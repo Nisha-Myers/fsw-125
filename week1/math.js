@@ -1,18 +1,14 @@
-// =>
-const addition = (x, y) => {
-    return x + y;
+const addition = (a, b) => {
+    return a + b;
 }
-
-const subtraction = (x, y) => {
-    return x - y;
+const subtraction = (a, b) =>{
+    return a - b;
 }
-
-const multiply = (x, y) => {
-    return x * y;
+const multiply = (a, b) =>{
+    return a * b;
 }
-
-const divide = (x, y) => {
-    return x / y;
+const divide = (a, b) =>{
+    return a / b;
 }
 
 
