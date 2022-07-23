@@ -16,7 +16,7 @@ const divide = (x, y) => {
 }
 
 
-// mod exp
+// export module
 module.exports = {
     addition,
     subtraction,
